@@ -14,3 +14,4 @@ export default function parallaxie(selector) {
     elementBg.style.backgroundPosition = `center ${position}px`;
   });
 }
+
